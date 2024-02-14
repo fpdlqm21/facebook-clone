@@ -1,4 +1,4 @@
-### Chapter7 facebook-clone 프로젝트 실행 방법
+### facebook-clone 프로젝트 실행 방법
 1. cd ./chapter07/facebook-clone
 2. npm install
 3. .env 파일 생성
